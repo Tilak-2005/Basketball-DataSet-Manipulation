@@ -8,7 +8,7 @@ This repository contains a dataset of basketball player statistics including poi
 It is intended for data analysis, visualization, and machine learning projects.
 
 ## Dataset
-- Format: CSV
+- Format: URL,CSVA
 - Columns: Player, Team, Points, Rebounds, Assists etc
 
 ## Usage
